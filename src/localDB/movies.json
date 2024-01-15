@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "title": "Back to the Future",
+    "year": "1994",
+    "rating": "5",
+    "image": "https://moviepostermexico.com/cdn/shop/products/back_to_the_future_xxlg_360x.jpg?v=1572130889",
+    "description": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown."
+  },
+  {
+    "id": "2",
+    "title": "The Godfather",
+    "year": "1972",
+    "rating": "4",
+    "image": "https://moviepostermexico.com/cdn/shop/products/134556_540x.jpg?v=1652236852",
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+  },
+  {
+    "id": "3",
+    "title": "The Dark Knight",
+    "year": "2008",
+    "rating": "2",
+    "image": "https://moviepostermexico.com/cdn/shop/products/X5Ww6ce_540x.jpg?v=1597074313",
+    "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+  },
+  {
+    "id": "4",
+    "title": "Logan",
+    "year": "2017",
+    "rating": "5",
+    "image": "https://moviepostermexico.com/cdn/shop/products/logan_1-sheet_360x.jpg?v=1598279935",
+    "description": "In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety."
+  },
+  {
+    "id": "5",
+    "title": "Joker",
+    "year": "2019",
+    "rating": "5",
+    "image": "https://moviepostermexico.com/cdn/shop/products/o_1dk7lfgms1od41rdg1r7e1f811go517_360x.jpg?v=1620199383",
+    "description": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker."
+  }
+]
