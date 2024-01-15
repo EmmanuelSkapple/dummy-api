@@ -3,7 +3,7 @@ import moviesRouter from './routes/movies';
 import admin from 'firebase-admin';
 const serviceAccount = require("../auth-test-skapple-firebase-adminsdk-rogb1-0188a28fd8");
 
-const PORT = 4002;
+const PORT = process.env.PORT || 4002;
 const app = express();
 app.use(express.json());
 
