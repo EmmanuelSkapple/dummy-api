@@ -7,7 +7,7 @@ const express_1 = __importDefault(require("express"));
 const movies_1 = __importDefault(require("./routes/movies"));
 const firebase_admin_1 = __importDefault(require("firebase-admin"));
 const serviceAccount = require("../auth-test-skapple-firebase-adminsdk-rogb1-0188a28fd8");
-const PORT = 4002;
+const PORT = process.env.PORT || 4002;
 const app = (0, express_1.default)();
 app.use(express_1.default.json());
 firebase_admin_1.default.initializeApp({
